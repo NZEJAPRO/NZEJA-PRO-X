@@ -1,0 +1,33 @@
+//@version=6
+strategy("NZEJA PRO X MASTER", overlay=true)
+
+//==================================================
+// NZEJA PRO X
+// MASTER DEVELOPMENT FILE
+//==================================================
+//
+// Version : 1.0.0
+// Status  : Development
+//
+// Owner   : Jay Nzeja
+// Project : NZEJA PRO X
+//
+// Development Partner : ChatGPT
+//
+//==================================================
+
+//--------------------------------------------------
+// MODULES
+//--------------------------------------------------
+//
+// 1. Trend Engine
+// 2. Decision Engine
+// 3. Risk Engine
+// 4. Trade Management Engine
+// 5. Exit Intelligence
+// 6. Dashboard
+// 7. Alerts
+//
+//==================================================
+
+// ---------- Development Starts Here ----------
